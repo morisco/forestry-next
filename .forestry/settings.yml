@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Posts
   create: all
-  match: posts/*
+  match: "**/posts/*"
   templates:
   - test
 upload_dir: uploads
