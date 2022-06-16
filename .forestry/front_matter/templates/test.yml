@@ -8,4 +8,5 @@ fields:
     required: false
   label: Test
 pages:
+- DraftTest.md
 - posts/TestPost.md
