@@ -7,6 +7,11 @@ fields:
   config:
     required: false
   label: Test
+- name: isLive
+  type: boolean
+  label: Live
+  default: false
+  description: Set to live when it's ready for the world<br>
 pages:
 - DraftTest.md
 - posts/TestPost.md
