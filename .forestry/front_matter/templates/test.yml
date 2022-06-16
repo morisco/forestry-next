@@ -13,5 +13,4 @@ fields:
   default: false
   description: Set to live when it's ready for the world<br>
 pages:
-- DraftTest.md
 - posts/TestPost.md
