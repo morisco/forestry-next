@@ -13,7 +13,6 @@ fields:
   default: false
   description: Set to live when it's ready for the world<br>
 pages:
-- drafts/testdraft.md
 - posts/PRIVATE_DRAFT_mos-post.md
 - posts/TestPost.md
 - posts/mos-post-1.md
